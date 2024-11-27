@@ -1,0 +1,19 @@
+{
+  "name": "robofrog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "FroggoSam",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.4.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.109",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
